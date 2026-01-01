@@ -16,8 +16,8 @@ The application is designed to:
 - Modular and hardware-agnostic design
 
 ## Project Status
-🚧 Initial setup completed.  
-Upcoming stages will add RTOS tasks, MQTT communication, and hardware abstraction layers.
+🚧 ✅ Basic Embedded C sensor simulation implemented and verified on Windows.
+
 
 ## Target Audience
 - Embedded systems beginners and fresh graduates
